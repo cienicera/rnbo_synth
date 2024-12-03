@@ -1,1 +1,1 @@
-Export your RNBO code into this directory.
+Patch.Export.JSON is theh synth file created for midi_fun
